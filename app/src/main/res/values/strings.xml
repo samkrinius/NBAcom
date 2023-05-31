@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">NBAcom</string>
+    <string name="nba_title">nba title</string>
+    <string name="nba_desc">nba desc</string>
+
+    <string name="pelatih">pelatih tim</string>
+    <string name="pemilik">pemilik tim</string>
+    <string name="publishTim">tahun dibentuk</string>
+    <string name="tags">bagian tim</string>
+    <string name="stadion">nama stadion</string>
+
+    <string name="about">about me</string>
+    <string name="pembuat">Martimbul Samkrinius Hutagalung</string>
+    <string name="email">037DSX2751@bangkit.academy</string>
+    <string name="email2">samkriniushutagalung@gmail.com</string>
+    <string name="kosong2">  </string>
+    <string name="sharebutton">share</string>
+    <string name="deskripsi_tag">deskripsi</string>
+    <string name="detail_actionBar">detail nba</string>
+    <string name="about_actionBar">About</string>
+    <string name="Main_actionBar">nba list</string>
+
+    <string-array name="data_title">
+        <item>Chicago Bulss</item>
+        <item>Boston Celtics</item>
+        <item>Golden State Warrior</item>
+        <item>Atlanta Hawks</item>
+        <item>Los Angles Lakers</item>
+        <item>Heat Miami</item>
+        <item>Oklahoma City Thunder</item>
+        <item>Detroit Pistons</item>
+        <item>Portland Trail Blazers</item>
+        <item>Toronto Raptor</item>
+    </string-array>
+
+    <string-array name="desc_nba">
+        <item>Chicago Bulls adalah tim bola basket Amerika Serikat yang tergabung dalam National Basketball Association. Tim ini berbasis di Chicago, Illinois.</item>
+        <item>Boston Celtics adalah sebuah tim basket profesional Amerika Serikat yang bermarkas di Boston, Massachusetts. Celtics berkompetisi di National Basketball Association (NBA) sebagai anggota dari Wilayah Timur, Divisi Atlantik.</item>
+        <item>Golden State Warriors adalah sebuah tim bola basket profesional Amerika Serikat yang bermarkas di San Francisco, California. Warriors berkompetisi di National Basketball Association (NBA), sebagai anggota Wilayah Barat, Divisi Pasifik.</item>
+        <item>Atlanta Hawks adalah sebuah tim basket profesional Amerika Serikat yang bermarkas di Atlanta, Georgia. Hawks berkompetisi di National Basketball Association (NBA) sebagai anggota Wilayah Timur Divisi Tenggara. Hawks memainkan pertandingan kandang mereka di State Farm Arena.</item>
+        <item>Los Angeles Lakers adalah sebuah tim basket profesional Amerika Serikat yang bermarkas di Los Angeles. Lakers berkompetisi di National Basketball Association (NBA), sebagai anggota Wilayah Barat, Divisi Pasifik.</item>
+        <item>Miami Heat adalah sebuah tim basket profesional Amerika Serikat yang bermarkas di Miami, Florida. Heat berkompetisi di National Basketball Association (NBA) sebagai anggota dari Wilayah Timur, Divisi Tenggara.</item>
+        <item>Oklahoma City Thunder adalah tim bola basket dari kota Oklahoma City, Oklahoma, Amerika Serikat yang tergabung dalam National Basketball Association. Thunder merupakan inkarnasi dari tim Seattle SuperSonics yang kini tidak lagi mengikuti kompetisi NBA . Tim ini mulai mengikuti NBA pada musim (2008-09) dengan pertandingan pertamanya adalah melawan Milwaukee Bucks (partai tandang), di mana mereka kalah dengan skor 98-87.</item>
+        <item>Detroit Pistons adalah tim bola basket yang tergabung dalam NBA. Mereka telah meraih tiga kali juara kompetisi tahunan NBA (1989, 1990, 2004).</item>
+        <item>Portland Trail Blazers adalah tim bola basket Amerika yang tergabung dalam NBA. Mereka berpusat di Portland, Oregon.</item>
+        <item>Toronto Raptors adalah tim bola basket Kanada yang tergabung dalam National Basketball Association.[8] Tim ini berbasis di Air Canada Centre, Toronto, Ontario.[8] Tim ini bergabung dalam NBA sejak tahun 1994.</item>
+    </string-array>
+
+    <string-array name="pelatih_tim">
+        <item>Pelatih = Billy Donovan</item>
+        <item>Pelatih = Joe Mazzulla</item>
+        <item>Pelatih = Steve Kerr</item>
+        <item>Pelatih = Quin Snyder</item>
+        <item>Pelatih = Darvin Ham</item>
+        <item>Pelatih = Erik Spoelstra</item>
+        <item>Pelatih = Mark Daigneault</item>
+        <item>Pelatih = Dwane Casey</item>
+        <item>Pelatih = Chauncey Billups</item>
+        <item>Pelatih = Lenny Wilkins</item>
+    </string-array>
+
+    <string-array name="pemilik_tim">
+        <item>Pemilik = Jerry Reinsdorf</item>
+        <item>Pemilik = Boston Basketball Partners</item>
+        <item>Pemilik = Joseph S. Lacob and Peter Guber</item>
+        <item>Pemilik = Ben Kerner and Leo Ferris</item>
+        <item>Pemilik = Todd Boehly</item>
+        <item>Pemilik = Micky Arison</item>
+        <item>Pemilik = Professional Basketball Club LLC</item>
+        <item>Pemilik = William Davidson</item>
+        <item>Pemilik = Estate of Paul Allen</item>
+        <item>Pemilik = Maple Leaf Sports and Entertainment</item>
+    </string-array>
+
+    <string-array name="publishTim_year">
+        <item>Dibentuk Tahun = 1966</item>
+        <item>Dibentuk Tahun = 1946</item>
+        <item>Dibentuk Tahun = 1946</item>
+        <item>Dibentuk Tahun = 1946</item>
+        <item>Dibentuk Tahun = 1947</item>
+        <item>Dibentuk Tahun = 1988</item>
+        <item>Dibentuk Tahun = 2008</item>
+        <item>Dibentuk Tahun = 1937</item>
+        <item>Dibentuk Tahun = 1970</item>
+        <item>Dibentuk Tahun = 1995</item>
+    </string-array>
+
+    <string-array name="tags_tim">
+        <item>Bagian = East</item>
+        <item>Bagian = East</item>
+        <item>Bagian = West</item>
+        <item>Bagian = East</item>
+        <item>Bagian = West</item>
+        <item>Bagian = East</item>
+        <item>Bagian = West</item>
+        <item>Bagian = East</item>
+        <item>Bagian = West</item>
+        <item>Bagian = East</item>
+    </string-array>
+
+    <string-array name="stadion_tim">
+        <item>Nama Stadio = United Center</item>
+        <item>Nama Stadio = TD Garden</item>
+        <item>Nama Stadio = Chase Center</item>
+        <item>Nama Stadio = State Farm Arena</item>
+        <item>Nama Stadio = Crypto.com Arena</item>
+        <item>Nama Stadio = Miami-Dade Arena</item>
+        <item>Nama Stadio = Chesapeake Energy Arena</item>
+        <item>Nama Stadio = Little Caesars Arena</item>
+        <item>Nama Stadio = Moda Center</item>
+        <item>Nama Stadio = Air Canada Centre</item>
+    </string-array>
+
+    <integer-array name="nba_logo">
+        <item>@drawable/bulls</item>
+        <item>@drawable/celtic</item>
+        <item>@drawable/gsw</item>
+        <item>@drawable/hawzk</item>
+        <item>@drawable/lakers</item>
+        <item>@drawable/miami</item>
+        <item>@drawable/okc</item>
+        <item>@drawable/pistons</item>
+        <item>@drawable/portland</item>
+        <item>@drawable/raptors</item>
+    </integer-array>
+
+</resources>
